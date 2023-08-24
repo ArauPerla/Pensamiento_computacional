@@ -34,7 +34,7 @@
 
 ###  Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
-    % incremento entre dos productos
+    incremento de % entre dos productos
     
     1 inicio
     
@@ -52,7 +52,7 @@
     
     6 diferencia de precio (7) / precio nuevo (16) = Resultado divicion (0.43)
     
-    7 resultado divición * 100 = incrementado de % entre los dos productos (43)
+    7 resultado divición * 100 = incrementado de % entre dos productos (43)
     
     8 Muestra el % de incremento (43%)
     
