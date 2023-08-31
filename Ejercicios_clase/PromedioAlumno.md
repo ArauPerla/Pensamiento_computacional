@@ -3,7 +3,7 @@
 
 ## Diagrama de flujo
 
-![Promedio al](https://github.com/ArauPerla/Pensamiento_computacional/assets/142936335/bc2988b8-ec13-4c65-a967-809b67fb637b)
+![Promedio al](https://github.com/ArauPerla/Pensamiento_computacional/assets/142936335/286b3b2d-c6e5-4696-9a88-691b6c4888d0)
 
 ## Codigo
          
