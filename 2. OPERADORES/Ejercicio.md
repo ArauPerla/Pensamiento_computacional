@@ -68,7 +68,7 @@ mayor que “F”. ¿Cuál es el menor de todos?
       3 ^ 2 - 2.5 + 9 > 100
       9 - 2.5 + 9 > 100
       15.5 > 100 
-      FALSO
+      FALSO 
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha (FALSO O VERDADERO).
