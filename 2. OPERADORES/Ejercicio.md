@@ -60,7 +60,7 @@ resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
 
-      E
+      G
 
 3^2 – (10/(8-4))+9 > 100 
 
